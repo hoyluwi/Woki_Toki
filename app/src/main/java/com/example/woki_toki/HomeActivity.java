@@ -15,7 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class HomeActivity extends AppCompatActivity {
-
+//GAB FU
     String[] channel = {"Channel 1","Channel 2","Channel 3","Channel 4","Channel 5"};
 
     AutoCompleteTextView autoCompleteTextView;
